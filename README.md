@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moderndayteatime
-- 👀 I’m interested in learning and growing into a better intellectual person.
-- 🌱 I’m currently learning Python, JavaScript, and React.
+- 👀 I’m interested in growing my skillset in coding, and have a mechanical background.
+- 🌱 I’m currently on a Fullstack engineering career path through Codeacademy.
 
 <!---
 moderndayteatime/moderndayteatime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
